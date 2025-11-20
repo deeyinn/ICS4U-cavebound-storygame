@@ -1,1 +1,1 @@
-basic story game made in an assignment for ICS4U.
+Basic Java story game. Made for an assignment in ICS 4U
